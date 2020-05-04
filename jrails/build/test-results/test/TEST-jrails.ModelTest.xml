@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-03T13:30:12" hostname="LAPTOP-7CMSS8CA" time="0.124">
+  <properties/>
+  <testcase name="id" classname="jrails.ModelTest" time="0.009"/>
+  <testcase name="all" classname="jrails.ModelTest" time="0.054"/>
+  <testcase name="find" classname="jrails.ModelTest" time="0.018"/>
+  <testcase name="save" classname="jrails.ModelTest" time="0.015"/>
+  <testcase name="destroy" classname="jrails.ModelTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
