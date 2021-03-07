@@ -1,5 +1,5 @@
 # MVC Practice
-This is implemented based on https://www.cs.tufts.edu/comp/180/p4.html
+This is implemented based on https://www.cs.tufts.edu/comp/180-2020s/p4.html
 
 ## Model
 
